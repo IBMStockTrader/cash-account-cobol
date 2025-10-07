@@ -3,4 +3,4 @@ CICS/COBOL implementation of Cash Account, for use in mainframe modernization "i
 
 ![Architecture Diagram](architecture-diagram.png)
 
-Stay tuned for a series of articles on [Medium](https://medium.com/cloud-journey-optimization) describing our journey enabling Stock Trader to "integrate with" this business logic on the mainframe.
+See our [Medium article](https://medium.com/cloud-journey-optimization/bridging-the-chasm-between-cloud-native-and-the-mainframe-b87a2ed77742) describing the journey enabling Stock Trader to "integrate with" this business logic on the mainframe.
